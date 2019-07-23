@@ -6,6 +6,8 @@ SWITCH
 LINK
 REDIRECT   in the react-router-dom
 
+( try out the NAVLINK AS IT IS NOT USED IN THIS PROJECT )
+
 install npm,node,create react app(AS THIS DONT HAVE NODE MODULES FOLDER), react router dom to test this project in local machine.
 
 TRY THIS IN THE PROJECT...
